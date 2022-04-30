@@ -1,6 +1,7 @@
 ### Hello, I am a beginner programmer.
 ### This is my GitHub profile
-![my GitHub stats](https://github-readme-stats.vercel.app/api?username=Jesewe&show_icons=true&theme=algolia)
+
+![my GitHub stats](https://github-readme-stats.vercel.app/api?username=Jesewe&show_icons=true&theme=dracula)
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
