@@ -10,15 +10,3 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jesewe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jesewe&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesewe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jesewe&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=jesewe_offical)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
----
-[![](https://visitcount.itsvg.in/api?id=Jesewe&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
