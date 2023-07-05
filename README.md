@@ -15,6 +15,6 @@ Apart from programming, I have a keen interest in playing shooter games, with Co
 Feel free to connect with me on the following social media platforms:
 
 - Discord: Jesewe
-- Instagram: [jesewe_official](https://instagram.com/jesewe_offical)
+- Instagram: [ItsJesewe](https://instagram.com/ItsJesewe)
 
 I am always open to networking and engaging in discussions related to programming, gaming, and technology. Don't hesitate to reach out!
