@@ -10,13 +10,14 @@ Welcome to my GitHub profile! I'm a passionate software developer and freelancer
 
 ## 📂 Featured Projects
 
-- **[ChatGPT Application](https://github.com/Jesewe/ChatGPT-Application)**: An enhanced ChatGPT client built with Flet, featuring a stylish dark theme, improved prompts, and more.
+- **[ChatGPT Application](https://github.com/Jesewe/cs2-triggerbot)**: An enhanced ChatGPT client built with Flet, featuring a stylish dark theme, improved prompts, and more.
 - **[PCPerfomanceBoost](https://github.com/Jesewe/PCPerfomanceBoost)**: A Windows optimization tool developed in C# for boosting system performance.
 - **[CS2 Triggerbot](https://github.com/Jesewe/cs2-triggerbot)**: The TriggerBot for Counter-Strike 2, automatically fires when the crosshair is on an enemy player.
 
 ## 🌍 Let's Connect!
 
 - **GitHub**: [github.com/jesewe](https://github.com/jesewe)
+- **Telegram**: [t.me/itsjesewe](https://t.me/itsjesewe)
 - **Twitter**: [twitter.com/jesewe_offical](https://twitter.com/jesewe_offical)
 
 ## 💼 Open to Collaborations
