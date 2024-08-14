@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Jesewe
 
-Welcome to my GitHub profile! I'm a passionate software developer and freelancer specializing in **Python**, **C++** and **JavaScript**. I love crafting applications with sleek, stylish designs, particularly dark-themed interfaces.
+Welcome to my GitHub profile! I'm a passionate software developer specializing in **Python**, **C++** and **JavaScript**. I love crafting applications with sleek, stylish designs, particularly dark-themed interfaces.
 
 ## 🛠️ Skills & Technologies
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and freelancer
 
 ## 📂 Featured Projects
 
-- **[ChatGPT Application](https://github.com/Jesewe/cs2-triggerbot)**: An enhanced ChatGPT client built with Flet, featuring a stylish dark theme, improved prompts, and more.
+- **[ChatGPT Application](https://github.com/Jesewe/ChatGPT-Application)**: An enhanced ChatGPT client built with Flet, featuring a stylish dark theme, improved prompts, and more.
 - **[PCPerfomanceBoost](https://github.com/Jesewe/PCPerfomanceBoost)**: A Windows optimization tool developed in C# for boosting system performance.
 - **[CS2 Triggerbot](https://github.com/Jesewe/cs2-triggerbot)**: The TriggerBot for Counter-Strike 2, automatically fires when the crosshair is on an enemy player.
 
