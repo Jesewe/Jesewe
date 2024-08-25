@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm a passionate software developer specializing i
 
 ## 📂 Featured Projects
 
-- **[ChatGPT Application](https://github.com/Jesewe/ChatGPT-Application)**: An enhanced ChatGPT client built with Flet, featuring a stylish dark theme, improved prompts, and more.
 - **[PCPerfomanceBoost](https://github.com/Jesewe/PCPerfomanceBoost)**: A Windows optimization tool developed in C# for boosting system performance.
 - **[CS2 Triggerbot](https://github.com/Jesewe/cs2-triggerbot)**: The TriggerBot for Counter-Strike 2, automatically fires when the crosshair is on an enemy player.
+- **[CS2 NoFlash](https://github.com/Jesewe/cs2-noflash)**: CS2 NoFlash is an automated tool designed for Counter-Strike 2 that prevents the player from being fully flashed by automatically adjusting the flashbang alpha values in the game.
 
 ## 🌍 Let's Connect!
 
