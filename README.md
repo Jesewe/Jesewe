@@ -11,6 +11,8 @@ Welcome to my GitHub profile! I'm a passionate software developer specializing i
 ## 📂 Featured Projects
 
 - **[CS2 Triggerbot](https://github.com/Jesewe/cs2-triggerbot)**: The TriggerBot for Counter-Strike 2, automatically fires when the crosshair is on an enemy player.
+- **[CS2 NoFlash](https://github.com/Jesewe/cs2-noflash)**: The NoFlash for Counter-Strike 2, automatically sets the flashbang alpha value to 0.
+- **[CS2 Bhop](https://github.com/Jesewe/cs2-bhop)**: The Bhop for Counter-Strike 2, automatically facilitating bunny hopping.
 
 ## 🌍 Let's Connect!
 
