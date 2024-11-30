@@ -1,28 +1,37 @@
 # 👋 Hello! I'm Jesewe
 
-Welcome to my GitHub profile! I'm a passionate software developer specializing in **Python**, **C++** and **JavaScript**. I love crafting applications with sleek, stylish designs, particularly dark-themed interfaces.
-
-## 🛠️ Skills & Technologies
-
-- **Programming Languages**: Python, C++, JavaScript
-- **Tools**: Git, GitHub, Visual Studio, VS Code
-- **Services**: Telegram Bot Development, Multithreaded Applications, GUI Design
-
-## 📂 Featured Projects
-
-- **[CS2 Triggerbot](https://github.com/Jesewe/cs2-triggerbot)**: The TriggerBot for Counter-Strike 2, automatically fires when the crosshair is on an enemy player.
-- **[CS2 NoFlash](https://github.com/Jesewe/cs2-noflash)**: The NoFlash for Counter-Strike 2, automatically sets the flashbang alpha value to 0.
-- **[CS2 Bhop](https://github.com/Jesewe/cs2-bhop)**: The Bhop for Counter-Strike 2, automatically facilitating bunny hopping.
-
-## 🌍 Let's Connect!
-
-- **GitHub**: [github.com/jesewe](https://github.com/jesewe)
-- **Telegram**: [t.me/itsjesewe](https://t.me/itsjesewe)
-
-## 💼 Open to Collaborations
-
-I'm always open to interesting projects and collaborations, whether it's enhancing an existing tool, developing a new application, or anything in between.
+Welcome to my GitHub profile! I'm a passionate **Software Developer** specializing in **Python**, **C++**, and **JavaScript**. I thrive on crafting sleek, stylish applications-especially those with **dark-themed interfaces**.
 
 ---
 
-⭐️ Don't forget to star my repositories if you find them useful!
+## 📂 Featured Projects
+
+Here are a few projects I'm working on:
+
+- 🔫 **[CS2 Triggerbot](https://github.com/Jesewe/cs2-triggerbot)**  
+  Automatically fires when your crosshair is on an enemy player in Counter-Strike 2.
+
+- 💡 **[CS2 NoFlash](https://github.com/Jesewe/cs2-noflash)**  
+  Sets the flashbang alpha value to `0`, helping you stay clear of distractions during gameplay.
+
+- 🐇 **[CS2 Bhop](https://github.com/Jesewe/cs2-bhop)**  
+  Simplifies bunny hopping mechanics in Counter-Strike 2 for smoother movement.
+
+Feel free to explore these repositories and provide feedback or suggestions!
+
+---
+
+## 🌍 Let's Connect!
+
+- **GitHub**: [github.com/Jesewe](https://github.com/Jesewe)  
+- **Telegram**: [t.me/itsjesewe](https://t.me/itsjesewe)
+
+---
+
+## 💼 Open to Collaborations
+
+I'm always excited to collaborate on intriguing projects! Whether it’s enhancing an existing tool, building a new application, or brainstorming innovative solutions, feel free to reach out.
+
+---
+
+⭐️ **If you enjoy my work, consider starring my repositories-it means a lot!**
