@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** specializi
 ![GitHub followers](https://img.shields.io/github/followers/Jesewe?style=social)  ![GitHub stars](https://img.shields.io/github/stars/Jesewe?style=social)  ![Profile views](https://komarev.com/ghpvc/?username=Jesewe&color=blueviolet&style=flat)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jesewe&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesewe&layout=compact&theme=radical)  
 
 ---
 
