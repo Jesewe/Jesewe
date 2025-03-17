@@ -21,6 +21,9 @@ Here are a few projects I'm working on:
 - 🐇 **[CS2 Bhop](https://github.com/Jesewe/cs2-bhop)**
   Simplifies bunny hopping mechanics in Counter-Strike 2 for smoother movement.
 
+- 🔆 **[CS2 ESP](https://github.com/Jesewe/cs2-esp)**
+  An advanced overlay for Counter-Strike 2 that highlights enemy players and teammates with customizable settings.
+
 Feel free to explore these repositories and provide feedback or suggestions!
 
 ---
