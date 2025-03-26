@@ -30,8 +30,7 @@ Feel free to explore these repositories and provide feedback or suggestions!
 
 ## 🌍 Let's Connect!
 
-- **GitHub**: [github.com/Jesewe](https://github.com/Jesewe)  
-- **Telegram**: [t.me/itsjesewe](https://t.me/itsjesewe)
+- **GitHub**: [github.com/Jesewe](https://github.com/Jesewe) 
 
 ---
 
